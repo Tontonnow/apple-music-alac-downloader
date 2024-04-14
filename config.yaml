@@ -1,0 +1,3 @@
+frida_path:  frida
+frida_server_path : /data/local/tmp/fs
+port: 8080
